@@ -2,7 +2,7 @@
 
 A boilerplate structure using [Next.js](https://github.com/vercel/next.js) and some libraries to compose a structure to start a new project.
 
-Technologies 📌
+## Technologies 📌
   - [Styled Components](https://styled-components.com/)
   - [eslint](https://eslint.org/)
   - [Prettier](https://prettier.io/)
