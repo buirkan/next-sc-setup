@@ -4,7 +4,8 @@ A boilerplate structure using [Next.js](https://github.com/vercel/next.js) and s
 
 ## Technologies 📌
   - [Styled Components](https://styled-components.com/)
-  - [eslint](https://eslint.org/)
+  - [SWR](https://github.com/vercel/swr)
+  - [ESLint](https://eslint.org/)
   - [Prettier](https://prettier.io/)
   - [Jest](https://jestjs.io/)
 
